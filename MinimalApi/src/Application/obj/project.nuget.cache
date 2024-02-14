@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9Eewvf0niNSYNtYkNTOTk+ws3a6tng3Jet1SJpmLUqfjWPNRzYv0+8ClxTYrbHg4HlaT01JQplxQgesTlAcAQ==",
+  "success": true,
+  "projectFilePath": "/Users/kingerson/Documents/Demo/CleanMinimalApi/MinimalApi/src/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/kingerson/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/kingerson/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/kingerson/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/kingerson/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/kingerson/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/kingerson/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

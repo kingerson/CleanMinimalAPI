@@ -1,0 +1,5 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/kingerson\/Documents\/Demo\/CleanMinimalApi\/MinimalApi\/src\/Application",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/kingerson\/Documents\/Demo\/CleanMinimalApi\/MinimalApi\/src\/Infrastructure",
+  "Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/kingerson\/Documents\/Demo\/CleanMinimalApi\/MinimalApi\/src\/Presentation"
+}

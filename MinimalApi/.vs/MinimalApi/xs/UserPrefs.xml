@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{B91AA43F-3487-42F4-A0B8-2A5AF4F93625}|MinimalApi">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.src.Presentation PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Presentation/Endpoints/Movies/MoviesEndpoints.cs">
+    <Files>
+      <File FileName=".dockerignore" />
+      <File FileName="src/Infrastructure/Databases/MoviesReviews/MovieReviewsDbContext.cs" />
+      <File FileName="src/Infrastructure/Databases/MoviesReviews/Mapping/AuthorMappingProfile.cs" />
+      <File FileName="src/Infrastructure/Databases/MoviesReviews/Mapping/EntitiyMappingProfile.cs" />
+      <File FileName="src/Presentation/Endpoints/Reviews/Requests/CreateReviewRequest.cs" />
+      <File FileName="src/Presentation/Endpoints/Reviews/Requests/UpdateReviewRequest.cs" />
+      <File FileName="src/Presentation/Endpoints/Reviews/ReviewsEndpoints.cs" />
+      <File FileName="src/Presentation/Endpoints/Movies/MoviesEndpoints.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MinimalApi" expanded="True">
+            <Node name="build" expanded="True" />
+            <Node name="Solution Items" expanded="True" />
+            <Node name="src" expanded="True">
+              <Node name="Application" expanded="True" />
+              <Node name="Infrastructure" expanded="True">
+                <Node name="Databases" expanded="True">
+                  <Node name="MoviesReviews" expanded="True">
+                    <Node name="Mapping" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Presentation" expanded="True">
+                <Node name="Endpoints" expanded="True">
+                  <Node name="Authors" expanded="True" />
+                  <Node name="Movies" expanded="True">
+                    <Node name="MoviesEndpoints.cs" selected="True" />
+                  </Node>
+                  <Node name="Reviews" expanded="True">
+                    <Node name="Requests" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

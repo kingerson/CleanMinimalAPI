@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Gerson Navarro",
+  "classifications": [
+    "Clean Architecture",
+    "Clean",
+    "Minimal API",
+    "Minimal",
+    "API",
+    "Dotnet",
+    "Docker"
+  ],
+  "identity": "MinimalApi.Template",
+  "name": "Clean Minimal API Template",
+  "shortName": "minimalapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MinimalApi",
+  "preferNameDirectory": true,
+  "symbols": {
+    "author": {
+      "type": "parameter",
+      "displayName": "The name of the author of the solution.",
+      "defaultValue": "Gerson Navarro",
+      "replaces": "Gerson Navarro"
+    }
+  }
+}
